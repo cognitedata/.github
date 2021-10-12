@@ -1,5 +1,4 @@
-# Make data do more
-![Cognite](https://www.cognite.com/hs-fs/hubfs/0128.jpg?width=700&name=0128.jpg)
+![Cognite](https://f.hubspotusercontent10.net/hubfs/6407318/Background_01.png)
 
 We're **[Cognite](https://www.cognite.com/en/)**, a global industrial SaaS company.
 
