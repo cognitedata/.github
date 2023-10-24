@@ -8,6 +8,7 @@ Our global team includes some of the best and brightest software engineers, prod
 
 Want to know more?
 * [Join Cognite](https://www.cognite.com/company/careers)
+* [Join our Community](https://hub.cognite.com/)
 * [Check out our developer blog](https://medium.com/cognite)
 * [Read our documentation](https://docs.cognite.com/)
 * [Meet some Cogniters](https://www.cognite.com/en/blog/tag/employee-stories)
